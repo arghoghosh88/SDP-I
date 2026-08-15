@@ -1,0 +1,7 @@
+Course : CSE-221
+Faculty Name : Abid
+Designation : Lecturer
+Phone Number : 01610327636
+Email : afhf@gmail.com
+Desk : B2-303
+=================================================
